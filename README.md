@@ -1,4 +1,4 @@
-# Codeforces_Submissions_Fetcher
+# Codeforces Submissions Fetcher
 
 A Python Script for downloading Codeforces ACCEPTED submissions.
 ```
@@ -9,7 +9,7 @@ Install the dependency `bs4`
 ```
 pip install bs4
 ```
-Run fetch.py
+Download and Run fetch.py
 ```
 python fetch.py
 ```
